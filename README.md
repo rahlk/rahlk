@@ -1,4 +1,4 @@
-### 👋 Hi there! I am Rahul, a Research Staff Member at IBM Research.
+### 👋 Hi there, I am Rahul.
 
 I work in the intersection of Machine Learning and Programming Languages for modernizing legacy applications and mainitaining cloud-native applications. Prior to this, I was Post doctoral fellow at Columbia University working [ARiSE Lab](https://www.rayb.info/ariselab) with Dr. Baishakhi Ray (see [rayb.info](rayb.info)) where my research explored the ways in which Machine Learning can be used to *trigger, detect, and repair* various problem across the software lifecycle.
 
