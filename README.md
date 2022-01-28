@@ -6,8 +6,5 @@ I obtained my PhD form [RAISE Lab](http://ai4se.net/) at NC State University und
 
 + my [Resume](https://rahlk.github.io/resume/). 
 
-+ my [Projects](https://rahlk.github.io/projects/). 
-
 + my [Publications](https://rahlk.github.io/publications/). 
 
-+ my [Talks](https://rahlk.github.io/talks/) 
